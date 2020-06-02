@@ -1,0 +1,10 @@
+Test with 2 process K = 5 trainingData 30000 x 784 and testingData: 20000 x 784 , time: 811.649231
+
+Test with 4 process K = 5 trainingData 30000 x 784 and testingData: 20000 x 784 , time: 422.972229
+
+Test with 8 process K = 5 trainingData 30000 x 784 and testingData: 20000 x 784 , time: 218.037796
+
+Test with 16 process K = 5 trainingData 30000 x 784 and testingData: 20000 x 784 , time: 120.108658
+
+Test with 32 process K = 5 trainingData 30000 x 784 and testingData: 20000 x 784 , time: 116.828667
+

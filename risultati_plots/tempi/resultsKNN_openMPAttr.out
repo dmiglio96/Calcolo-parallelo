@@ -1,0 +1,10 @@
+Test with 2 thread e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 765.130981
+
+Test with 4 thread e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 391.633667
+
+Test with 8 thread e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 208.888092
+
+Test with 16 thread e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 115.306534
+
+Test with 32 thread e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 117.969971
+

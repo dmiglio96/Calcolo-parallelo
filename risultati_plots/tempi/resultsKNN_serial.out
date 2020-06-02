@@ -1,0 +1,12 @@
+Test with K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.010000
+
+Test with K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.060000
+
+Test with K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 2.250000
+
+Test with K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 7.930000
+
+Test with K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 29.740000
+
+Test with K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 120.830002
+

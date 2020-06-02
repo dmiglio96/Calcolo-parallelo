@@ -1,0 +1,60 @@
+Test with 2 process K = 5 trainingData 480 x 30 and testingData: 20 x 30 , time: 0.265473
+
+Test with 2 process K = 5 trainingData 800 x 30 and testingData: 200 x 30 , time: 0.298741
+
+Test with 2 process K = 5 trainingData 8000 x 30 and testingData: 2000 x 30 , time: 1.947798
+
+Test with 2 process K = 5 trainingData 16000 x 30 and testingData: 4000 x 30 , time: 5.039396
+
+Test with 2 process K = 5 trainingData 32000 x 30 and testingData: 8000 x 30 , time: 16.970440
+
+Test with 2 process K = 5 trainingData 64000 x 30 and testingData: 16000 x 30 , time: 63.899754
+
+Test with 4 process K = 5 trainingData 480 x 30 and testingData: 20 x 30 , time: 0.266858
+
+Test with 4 process K = 5 trainingData 800 x 30 and testingData: 200 x 30 , time: 0.301406
+
+Test with 4 process K = 5 trainingData 8000 x 30 and testingData: 2000 x 30 , time: 1.440811
+
+Test with 4 process K = 5 trainingData 16000 x 30 and testingData: 4000 x 30 , time: 3.256303
+
+Test with 4 process K = 5 trainingData 32000 x 30 and testingData: 8000 x 30 , time: 9.169259
+
+Test with 4 process K = 5 trainingData 64000 x 30 and testingData: 16000 x 30 , time: 32.749729
+
+Test with 8 process K = 5 trainingData 480 x 30 and testingData: 20 x 30 , time: 0.309422
+
+Test with 8 process K = 5 trainingData 800 x 30 and testingData: 200 x 30 , time: 0.352757
+
+Test with 8 process K = 5 trainingData 8000 x 30 and testingData: 2000 x 30 , time: 1.095037
+
+Test with 8 process K = 5 trainingData 16000 x 30 and testingData: 4000 x 30 , time: 2.178585
+
+Test with 8 process K = 5 trainingData 32000 x 30 and testingData: 8000 x 30 , time: 5.419026
+
+Test with 8 process K = 5 trainingData 64000 x 30 and testingData: 16000 x 30 , time: 17.449270
+
+Test with 16 process K = 5 trainingData 480 x 30 and testingData: 20 x 30 , time: 0.376384
+
+Test with 16 process K = 5 trainingData 800 x 30 and testingData: 200 x 30 , time: 0.462459
+
+Test with 16 process K = 5 trainingData 8000 x 30 and testingData: 2000 x 30 , time: 0.937736
+
+Test with 16 process K = 5 trainingData 16000 x 30 and testingData: 4000 x 30 , time: 1.810122
+
+Test with 16 process K = 5 trainingData 32000 x 30 and testingData: 8000 x 30 , time: 3.494534
+
+Test with 16 process K = 5 trainingData 64000 x 30 and testingData: 16000 x 30 , time: 9.498455
+
+Test with 32 process K = 5 trainingData 480 x 30 and testingData: 20 x 30 , time: 0.449857
+
+Test with 32 process K = 5 trainingData 800 x 30 and testingData: 200 x 30 , time: 0.613673
+
+Test with 32 process K = 5 trainingData 8000 x 30 and testingData: 2000 x 30 , time: 1.240905
+
+Test with 32 process K = 5 trainingData 16000 x 30 and testingData: 4000 x 30 , time: 1.981682
+
+Test with 32 process K = 5 trainingData 32000 x 30 and testingData: 8000 x 30 , time: 3.730247
+
+Test with 32 process K = 5 trainingData 64000 x 30 and testingData: 16000 x 30 , time: 9.745857
+

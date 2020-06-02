@@ -1,0 +1,6 @@
+Test with BLOCK_SIZE 8 e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 26.921494
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 23.299089
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 30000 x 784 and testingData: 20000 x 784, time: 24.082211
+

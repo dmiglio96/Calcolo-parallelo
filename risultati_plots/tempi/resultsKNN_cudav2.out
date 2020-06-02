@@ -1,0 +1,36 @@
+Test with BLOCK_SIZE 8 e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.011303
+
+Test with BLOCK_SIZE 8 e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.021059
+
+Test with BLOCK_SIZE 8 e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 0.202351
+
+Test with BLOCK_SIZE 8 e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 0.432082
+
+Test with BLOCK_SIZE 8 e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 0.913778
+
+Test with BLOCK_SIZE 8 e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 2.230188
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.011685
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.021461
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 0.199183
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 0.442126
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 0.733868
+
+Test with BLOCK_SIZE 16 e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 2.449643
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.011796
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.016685
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 0.206116
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 0.439930
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 0.996463
+
+Test with BLOCK_SIZE 32 e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 2.921638
+

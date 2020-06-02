@@ -1,0 +1,60 @@
+Test with 2 thread e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.012110
+
+Test with 2 thread e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.052862
+
+Test with 2 thread e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 1.697478
+
+Test with 2 thread e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 4.040084
+
+Test with 2 thread e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 16.752405
+
+Test with 2 thread e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 56.825848
+
+Test with 4 thread e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.005238
+
+Test with 4 thread e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.016425
+
+Test with 4 thread e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 1.027350
+
+Test with 4 thread e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 2.820600
+
+Test with 4 thread e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 8.252842
+
+Test with 4 thread e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 31.092289
+
+Test with 8 thread e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.004482
+
+Test with 8 thread e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.015050
+
+Test with 8 thread e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 0.678595
+
+Test with 8 thread e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 1.977650
+
+Test with 8 thread e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 5.219484
+
+Test with 8 thread e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 16.260672
+
+Test with 16 thread e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.005187
+
+Test with 16 thread e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.024208
+
+Test with 16 thread e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 0.711001
+
+Test with 16 thread e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 1.515463
+
+Test with 16 thread e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 3.307396
+
+Test with 16 thread e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 9.554554
+
+Test with 32 thread e K = 5 trainingData 480 x 30 and testingData: 20 x 30, time: 0.010835
+
+Test with 32 thread e K = 5 trainingData 800 x 30 and testingData: 200 x 30, time: 0.015484
+
+Test with 32 thread e K = 5 trainingData 8000 x 30 and testingData: 2000 x 30, time: 0.318661
+
+Test with 32 thread e K = 5 trainingData 16000 x 30 and testingData: 4000 x 30, time: 1.335839
+
+Test with 32 thread e K = 5 trainingData 32000 x 30 and testingData: 8000 x 30, time: 2.950037
+
+Test with 32 thread e K = 5 trainingData 64000 x 30 and testingData: 16000 x 30, time: 9.372705
+
